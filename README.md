@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Paulo
 
-- 📌 SaaS Content Marketer with experience in SEO and technical writing  
+- 📌 B2B Content Marketer and SEO strategist
 - 📊 Learning **Python** to work with SEO data and build analysis tools  
 - ⛓️ Learning **Solidity** to understand and audit smart contracts  
 - ☁️ Currently writing and editing content for a **Cloud Computing business & AWS Partner**  
